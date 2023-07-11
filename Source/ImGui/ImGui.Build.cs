@@ -64,6 +64,7 @@ public class ImGui : ModuleRules
 			new string[]
 			{
 				"CoreUObject",
+				"EnhancedInput",
 				"Engine",
 				"InputCore",
 				"Slate",
